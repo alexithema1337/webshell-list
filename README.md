@@ -1,3 +1,12 @@
-# webshell-list
-- webshell ini adalah webshell punya alex , webshell yang sering di pake sama alex buat bypass dan buat keperluan asas wkwk
-- yowes , kalo mau pake . pake saja . tapi kalo kena tikung , jangan salahkan alex ya
+# Webshell List
+
+Selamat datang di **Webshell List**! Ini adalah koleksi webshell spesial milik Alex, dirancang untuk keperluan bypass dan "asas" lainnya (wkwk). Keren, simpel, tapi powerful. Mau coba? Silakan, tapi pakai dengan bijak ya!
+
+## Deskripsi
+Webshell ini adalah alat andalan Alex untuk berbagai keperluan teknis. Dibuat dengan cinta dan sedikit kreativitas, koleksi ini bisa jadi temen setia buat kamu yang suka eksplorasi. Tapi ingat, kalau kena tikung, jangan salahkan Alex, ya!
+
+## Catatan Penutup
+> "Yowes, kalo mau pake, pake saja. Tapi kalo kena tikung, jangan salahkan Alex ya!" - Alex, probably :V
+
+---
+⭐ **Star repo ini kalau bermanfaat!** ⭐
